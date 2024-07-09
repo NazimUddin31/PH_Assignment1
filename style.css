@@ -63,3 +63,62 @@ body {
     border-radius: 5px;
     
 }
+/*  Assignment 2nd Part */
+ 
+
+.container-contents{
+
+    background: rgb(245, 245, 245);
+     border-radius: 5px;
+     margin-top: 5%;
+     margin-bottom: 4%;
+     padding-top: 40px;
+     
+    
+    
+    }  
+    .container-contents a{
+        text-decoration: none;
+        border-radius: 1px;
+     border: 2px solid rgb(170, 170, 170);
+        align-items: center;
+       
+         color: #0D1321;
+    
+    }
+     
+    .First-content {
+        
+        justify-content: center;
+        align-items: center;
+        
+        text-align: center;
+    }
+    
+    .Second-content{
+        margin-top: 10%;
+    display: flex;
+    justify-content: space-evenly;
+    }
+    .Third-content{
+        margin-top: 10%;
+    display: flex;
+    justify-content: space-between;
+    
+    }
+     
+    .Third-content p{
+        text-align: justify;
+    }
+    
+    .Fourth-content{
+    
+        margin-top: 10%;
+        display: flex;
+        justify-content:space-evenly;
+      
+    }
+    
+    .Fourth-content p{
+         text-align: justify;
+    }
