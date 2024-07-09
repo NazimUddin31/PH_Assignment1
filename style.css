@@ -122,3 +122,89 @@ body {
     .Fourth-content p{
          text-align: justify;
     }
+
+
+    
+/* Assignment 3rd part */
+.MyInspire{
+    gap: 50px;
+        flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 4%;
+    margin-bottom: 4%;
+     
+     
+     
+    }
+     .video{
+        border-radius: 4px;
+        border: 2px solid rgb(209, 201, 201);
+        padding: 13px 13px 13px;
+     }
+
+     
+/* cards1--4th part */
+ 
+ .cc{
+     
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 25px;
+ }
+.card-container {
+    display: flex;
+    
+flex: content;
+}
+
+.card1,.card2,.card3 {
+    padding-top: 3%;
+    padding-bottom: 3%;
+    justify-content: space-around;
+     
+}
+.card1{
+    background: #ffe9fd;
+    border-radius: 10px;
+   box-sizing: content-box;
+}
+
+
+.card2{
+    background: #f4fdff;
+    border-radius: 10px;
+}
+
+.card3{
+    background: #fff8f8;
+    border-radius: 10px;
+}
+
+
+
+.card1,.card2,.card3, img{
+ 
+    margin-left: 30px;
+    }
+    .card1,.card2,.card3, h3{
+
+margin-left: 30px;
+}
+ 
+.card1,.card2,.card3, p{
+    margin-left: 30px;
+
+}
+
+.card1,.card2,.card3, a{
+    margin-left: 30px;
+
+}
+
+.card-content a {
+    color: black;
+}
