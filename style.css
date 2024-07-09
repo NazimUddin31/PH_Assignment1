@@ -208,3 +208,22 @@ margin-left: 30px;
 .card-content a {
     color: black;
 }
+/* Card2 */
+
+.card-container2{
+    width: 900px;
+     
+  }
+ .card4{
+     border: 2px solid rgb(153, 153, 153);
+     margin-left: 135px;
+ }
+ .card5{
+     border: 2px solid rgb(153, 153, 153);
+     margin-left: 135px;
+ }
+ .card6{
+     border: 2px solid rgb(153, 153, 153);
+     margin-left: 135px;
+ }
+ 
